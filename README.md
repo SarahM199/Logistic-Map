@@ -7,7 +7,9 @@ Where:
   r can be considered akin to a growth rate.
   
   x[1] = .5
+  
   x[n+1] is the population next year.
+  
   x[n] is the current population. Population ranges between 0 and 1, signifying the proportion of the maximum population.
   
 # Overview
